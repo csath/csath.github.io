@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.584f321a.chunk.css",
-    "main.js": "/static/js/main.dc9da1ca.chunk.js",
-    "main.js.map": "/static/js/main.dc9da1ca.chunk.js.map",
-    "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
-    "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
-    "static/js/2.b41502e9.chunk.js": "/static/js/2.b41502e9.chunk.js",
-    "static/js/2.b41502e9.chunk.js.map": "/static/js/2.b41502e9.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.5612ef4b22fd14efb9d8b37107c9ed84.js": "/precache-manifest.5612ef4b22fd14efb9d8b37107c9ed84.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.584f321a.chunk.css.map": "/static/css/main.584f321a.chunk.css.map",
-    "static/media/logo.svg": "/static/media/logo.5d5d9eef.svg"
-  }
+    "main.css": "/csath/csath.github.io/static/css/main.073c9b0a.css",
+    "main.js": "/csath/csath.github.io/static/js/main.fcccfb4e.js",
+    "static/js/787.7c7066f3.chunk.js": "/csath/csath.github.io/static/js/787.7c7066f3.chunk.js",
+    "static/media/logo.svg": "/csath/csath.github.io/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/csath/csath.github.io/index.html",
+    "main.073c9b0a.css.map": "/csath/csath.github.io/static/css/main.073c9b0a.css.map",
+    "main.fcccfb4e.js.map": "/csath/csath.github.io/static/js/main.fcccfb4e.js.map",
+    "787.7c7066f3.chunk.js.map": "/csath/csath.github.io/static/js/787.7c7066f3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.fcccfb4e.js"
+  ]
 }
