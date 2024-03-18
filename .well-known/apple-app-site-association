@@ -4,7 +4,13 @@
       "details": [
            {
              "appID": "R22KE9UM5Y.com.tonies.app", 
-             "paths": [ "/de-de/tonies/?flag=new*"]
+             "components": [
+              {
+                 "/": "/de-de/tonies/",
+                 "?": { "flag": "new" },
+                 "comment": "Matches urls for tonies with action new in Dach region"
+              }
+            ]
            }
        ]
    }
