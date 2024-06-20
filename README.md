@@ -1,4 +1,4 @@
-# deeplink
+# App/Universal link Domain verification files
 
 For Android: https://your-domain.com/.well-known/assetlinks.json
 
