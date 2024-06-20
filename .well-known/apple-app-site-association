@@ -1,17 +1,28 @@
 {
   "applinks": {
-      "apps": [],
-      "details": [
-           {
-             "appID": "R22KE9UM5Y.com.tonies.app", 
-             "components": [
-              {
-                 "/": "/de-de/tonies/",
-                 "?": { "flag": "new" },
-                 "comment": "Matches urls for tonies with action new in Dach region"
-              }
-            ]
-           }
-       ]
-   }
+    "apps": [],
+    "details": [
+      {
+        "appID": "R22KE9UM5Y.com.tonies.app",
+        "components": [
+          {
+            "/": "/de-de/tonies/",
+            "comment": "Matches tonies url for Germany"
+          },
+          {
+            "/": "/fr-fr/tonies/",
+            "comment": "Matches tonies url for France"
+          },
+          {
+            "/": "/en-gb/tonies/",
+            "comment": "Matches tonies url for UK"
+          },
+          {
+            "/": "/en-eu/tonies/",
+            "comment": "Matches tonies url for rest of the europe"
+          }
+        ]
+      }
+    ]
+  }
 }
