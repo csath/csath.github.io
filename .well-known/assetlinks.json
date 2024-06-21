@@ -7,7 +7,8 @@
             "namespace": "android_app",
             "package_name": "com.tonies.app",
             "sha256_cert_fingerprints": [
-                "17:7D:BE:8D:C3:75:E8:64:01:A6:ED:4E:99:B0:08:95:F1:8B:1B:78:00:A8:F0:7C:B1:28:E0:D5:FA:8A:03:86"
+                "17:7D:BE:8D:C3:75:E8:64:01:A6:ED:4E:99:B0:08:95:F1:8B:1B:78:00:A8:F0:7C:B1:28:E0:D5:FA:8A:03:86",
+                "B2:67:D6:67:F0:39:F5:83:66:86:A0:40:D0:CB:1D:B3:F7:03:FD:AF:07:A7:77:3B:F7:20:73:2D:F7:E9:76:27"
             ]
         }
     },
