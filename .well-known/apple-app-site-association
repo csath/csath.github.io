@@ -6,20 +6,101 @@
         "appID": "R22KE9UM5Y.com.tonies.app",
         "components": [
           {
-            "/": "/de-de/tonies/",
-            "comment": "Matches tonies url for Germany"
+            "/": [
+              "/m/en-eu/tonies/",
+              "/m/en-gb/tonies/",
+              "/m/fr-fr/tonies/",
+              "/m/de-de/tonies/",
+              "/m/en-eu/tonies/*/*/",
+              "/m/en-gb/tonies/*/*/",
+              "/m/fr-fr/tonies/*/*/",
+              "/m/de-de/tonies/*/*/"
+            ],
+            "comment": "Matches general and specific tonie supported shops."
           },
           {
-            "/": "/fr-fr/tonies/",
-            "comment": "Matches tonies url for France"
+            "/": [
+              "/m/en-eu/creative-tonies/*/",
+              "/m/en-gb/creative-tonies/*/",
+              "/m/de-de/kreativ-tonies/*/",
+              "/m/fr-fr/tonies-creatifs/*/"
+            ],
+            "comment": "Matches general and specific creative tonies, restricted to specific supported shops."
           },
           {
-            "/": "/en-gb/tonies/",
-            "comment": "Matches tonies url for UK"
+            "/": [
+              "/m/en-eu/toniebox/*/",
+              "/m/en-gb/toniebox/*/",
+              "/m/fr-fr/toniebox/*/",
+              "/m/de-de/toniebox/*/",
+              "/m/en-eu/tonieboxes/*/",
+              "/m/en-gb/tonieboxes/*/",
+              "/m/fr-fr/tonieboxes/*/",
+              "/m/de-de/tonieboxen/*/"
+            ],
+            "comment": "Matches general and specific tonieboxes, restricted to specific supported shops."
           },
           {
-            "/": "/en-eu/tonies/",
-            "comment": "Matches tonies url for rest of the europe"
+            "/": [
+              "/m/en-eu/toniebox-2/*/",
+              "/m/en-gb/toniebox-2/*/",
+              "/m/fr-fr/toniebox-2/*/",
+              "/m/de-de/toniebox-2/*/"
+            ],
+            "comment": "Matches toniebox-2 supported shops."
+          },
+          {
+            "/": [
+              "/m/en-eu/tonieplay/*/",
+              "/m/en-gb/tonieplay/*/",
+              "/m/fr-fr/tonieplay/*/",
+              "/m/de-de/tonieplay/*/"
+            ],
+            "comment": "Matches tonieplay supported shops."
+          },
+          {
+            "/": [
+              "/m/en-eu/audio-content/",
+              "/m/en-gb/audio-content/",
+              "/m/fr-fr/audio-content/",
+              "/m/de-de/audio-content/"
+            ],
+            "?": {
+              "theme": "*"
+            },
+            "comment": "Matches the audio-content URLs for mobile versions, with theme param."
+          },
+          {
+            "/": [
+              "/m/en-eu/accessories/*/",
+              "/m/en-gb/accessories/*/",
+              "/m/de-de/ausruestung/*/",
+              "/m/fr-fr/accessoires/*/"
+            ],
+            "comment": "Matches general and specific accessories, restricted to specific supported shops."
+          },
+          {
+            "/": [
+              "/m/en-gb/book-tonies/*/*/"
+            ],
+            "comment": "Matches general and specific book tonies, restricted to specific supported shops."
+          },
+          {
+            "/": [
+              "/m/en-eu/clever-tonies/",
+              "/m/en-gb/clever-tonies/",
+              "/m/de-de/clever-tonies/"
+            ],
+            "comment": "Matches general and specific clever tonies, restricted to specific supported shops."
+          },
+          {
+            "/": [
+              "/m/en-us/collections",
+              "/m/en-au/collections",
+              "/m/en-us/products/*/",
+              "/m/en-au/products/*/"
+            ],
+            "comment": "Matches collections and all category pages dynamically for mobile versions, restricted to US & AUS."
           }
         ]
       }
