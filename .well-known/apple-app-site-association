@@ -1,1 +1,29 @@
 
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "R22KE9UM5Y.com.tonies.app",
+        "components": [
+          {
+            "/": "/m/en-eu/tonies/",
+            "comment": "Matches product listing and PDP for tonies"
+          },
+          {
+            "/":  "/m/en-gb/tonies/,
+            "comment": "Matches product listing and PDP for tonies"
+          },
+          {
+            "/": "/m/en-eu/creative-tonies/*/",
+            "comment": "Matches product listing and PDP for creative-tonies"
+          },
+          {
+            "/": "/m/fr-fr/tonies-creatifs/*/",
+            "comment": "Matches product listing and PDP for creative-tonies"
+          }
+        ]
+      }
+    ]
+  }
+}
