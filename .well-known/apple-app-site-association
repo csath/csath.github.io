@@ -6,7 +6,7 @@
         "appID": "R22KE9UM5Y.com.tonies.app",
         "components": [
           {
-            "/": "/m/en-eu/toniebox",
+            "/": "/m/en-eu/toniebox*",
             "comment": "Matches product listing for tonies in Europe"
           }
         ]
