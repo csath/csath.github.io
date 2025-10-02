@@ -336,10 +336,13 @@
           {
             "/": "/en-eu/app/",
             "comment": "Matches app page in EU without /m prefix"
+          },
+          {
+            "/": "/m/app/",
+            "comment": "Matches global app page"
           }
         ]
       }
     ]
   }
 }
-
