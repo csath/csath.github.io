@@ -340,6 +340,10 @@
           {
             "/": "/m/app/",
             "comment": "Matches global app page"
+          },
+          {
+            "/": "/app/",
+            "comment": "Matches global app page"
           }
         ]
       }
