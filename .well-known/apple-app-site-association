@@ -266,15 +266,15 @@
             "comment": "Matches product listing and PDP for accessories in France"
           },
           {
-            "/": "/m/en-us/collections",
+            "/": "/m/en-us/collections/*/",
             "comment": "Matches product listing for collections in the US"
           },
           {
-            "/": "/m/en-au/collections",
+            "/": "/m/en-au/collections/*/",
             "comment": "Matches product listing for collections in Australia"
           },
           {
-            "/": "/m/en-ca/collections",
+            "/": "/m/en-ca/collections/*/",
             "comment": "Matches product listing for collections in Canada"
           },
           {
@@ -343,7 +343,7 @@
           },
           {
             "/": "/app/",
-            "comment": "Matches global app page"
+            "comment": "Matches global app page without /m prefix"
           }
         ]
       }
